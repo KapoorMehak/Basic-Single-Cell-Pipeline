@@ -5,4 +5,4 @@ The practice includesseurat workflow:
 1. Read/load and save data: (read_load_save.R)
 2. QC and filtering: (read_load_save.R)
 3. Integration (using SCTransform): (integrate.R)
-4. Clustering 
+4. Clustering: (clustering.R)
