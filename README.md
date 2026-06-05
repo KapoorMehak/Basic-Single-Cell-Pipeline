@@ -7,3 +7,5 @@ The practice includesseurat workflow:
 3. Integration (using SCTransform): (integrate.R)
 4. Clustering: (clustering.R)
 
+   
+
